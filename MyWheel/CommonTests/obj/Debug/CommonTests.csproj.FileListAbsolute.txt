@@ -1,0 +1,9 @@
+F:\code\git\MyWheel\MyWheel\CommonTests\bin\Debug\CommonTests.dll
+F:\code\git\MyWheel\MyWheel\CommonTests\bin\Debug\CommonTests.pdb
+F:\code\git\MyWheel\MyWheel\CommonTests\bin\Debug\Common.dll
+F:\code\git\MyWheel\MyWheel\CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\code\git\MyWheel\MyWheel\CommonTests\bin\Debug\Common.pdb
+F:\code\git\MyWheel\MyWheel\CommonTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\code\git\MyWheel\MyWheel\CommonTests\obj\Debug\CommonTests.csprojResolveAssemblyReference.cache
+F:\code\git\MyWheel\MyWheel\CommonTests\obj\Debug\CommonTests.dll
+F:\code\git\MyWheel\MyWheel\CommonTests\obj\Debug\CommonTests.pdb
